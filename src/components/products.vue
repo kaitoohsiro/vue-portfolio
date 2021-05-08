@@ -108,14 +108,14 @@
                         title: "Kaifolio.ver1",
                         color: "yellow",
                         link: "https://kaitoohsiro.github.io/KaiFolio/index.html",
-                        img_url: require("@/assets/pf1.png"),
+                        img_url: require("@/assets/pf2.png"),
                         show: false,
                     },
                     {
                         title: "Kaifolio.ver2",
                         color: "yellow",
                         link: "https://kaifolio.web.app/",
-                        img_url: require("@/assets/pf2.png"),
+                        img_url: require("@/assets/pf1.png"),
                         show: false,
                     },
                     {
@@ -137,6 +137,13 @@
                         color: "yellow",
                         link: "https://dev.d18pk3xlx7hz0o.amplifyapp.com/",
                         img_url: require("@/assets/mr.png"),
+                        show: false,
+                    },
+                    {
+                        title: "amplify入門",
+                        color: "yellow",
+                        link: "https://zenn.dev/o_kai/books/f042f15bcdb006",
+                        img_url: require("@/assets/am.png"),
                         show: false,
                     },
                     {
