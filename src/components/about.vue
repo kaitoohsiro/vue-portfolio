@@ -4,7 +4,7 @@
 
         </div>
         <div class="intern">
-            <h2 class="intern-title">INTERN</h2>
+            <h2 class="intern-title">INTERN&WORKSHOP</h2>
         </div>
         <v-timeline>
             <v-timeline-item class="c">iYell株式会社</v-timeline-item>
@@ -13,6 +13,7 @@
             </v-timeline-item>
             <v-timeline-item class="c">TRUNK株式会社</v-timeline-item>
             <v-timeline-item class="c text-right">株式会社タンバリン</v-timeline-item>
+            <v-timeline-item class="c">沖縄科学技術大学院大学 OIST</v-timeline-item>
         </v-timeline>
     </div>
 </template>
