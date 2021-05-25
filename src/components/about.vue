@@ -11,8 +11,8 @@
             <v-timeline-item class="c text-right">
                 サイバーエージェント
             </v-timeline-item>
-            <v-timeline-item class="c">楽天グループ株式会社</v-timeline-item>
-            <v-timeline-item class="c text-right">TRUNK株式会社</v-timeline-item>
+            <v-timeline-item class="c">TRUNK株式会社</v-timeline-item>
+            <v-timeline-item class="c text-right">株式会社タンバリン</v-timeline-item>
         </v-timeline>
     </div>
 </template>
