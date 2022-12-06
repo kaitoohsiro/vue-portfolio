@@ -24,7 +24,7 @@
                                     class="text-xs-center ma-4"
                                     :class="`elevation-${hover ? 12 : 4}`"
                                     color="grey darken-4">
-                                <a :href="product.link" class="border">
+                                <a target="blank" :href="product.link" class="border">
                                     <v-card-title class="p-title">
                                         <div class="mx-auto">
                                             <img
@@ -151,6 +151,13 @@
                         color: "yellow",
                         link: "https://zenn.dev/o_kai/articles/bd63a6a8aa5cf8",
                         img_url: require("@/assets/pk.png"),
+                        show: false,
+                    },
+                    {
+                        title: "ディープラーニングフレームワークCyeld",
+                        color: "yellow",
+                        link: "https://github.com/kaitoohsiro/Cyeld",
+                        img_url: require("@/assets/cy.jpg"),
                         show: false,
                     },
 

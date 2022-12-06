@@ -34,6 +34,7 @@
       <Products/>
       <About/>
       <router-view/>
+      <ffooter/>
     </v-main>
   </v-app>
 </template>
@@ -43,6 +44,7 @@ import Terminal from "./components/terminal"
 import Skills from "./components/skills"
 import Products from "./components/products"
 import About from "./components/about"
+import ffooter from "./components/footer.vue"
 
 
   export default {
@@ -52,7 +54,8 @@ import About from "./components/about"
     Terminal,
     Skills,
     Products,
-    About
+    About,
+    ffooter
   },
 
   data: () => ({
@@ -65,5 +68,7 @@ import About from "./components/about"
 #app {
   background-color: rgba(0, 0, 0, 0.8);
 }
-
+ffooter {
+  width : 100%;
+}
 </style>
